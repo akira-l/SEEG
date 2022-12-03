@@ -4,8 +4,8 @@ This project is a pytorch implementation of *SEEG: Semantic Energized Co-speech 
 
 # Insight 
 
-Only learning beat gestures already performs comparably with the SOTA methods. 
-Introducing additional semantic-aware supervision can influence the gestures expressions. 
+* Only learning beat gestures already performs comparably with the SOTA methods. 
+* Introducing additional semantic-aware supervision can influence the gestures expressions. 
 
 ## Environment & Training 
 
