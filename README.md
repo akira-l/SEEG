@@ -2,6 +2,11 @@
 
 This project is a pytorch implementation of *SEEG: Semantic Energized Co-speech Gesture Generation*. 
 
+# Insight 
+
+Only learning beat gestures already performs comparably with the SOTA methods. 
+Introducing additional semantic-aware supervision can influence the gestures expressions. 
+
 ## Environment & Training 
 
 This repository is developed and tested on Ubuntu 18.04, Python 3.6+, and PyTorch 1.3+. The environment is the same to [Trimodal Context](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context).
